@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @walzinha
-- 👀 I’m interested in cats, series and sleep 
-- 🌱 I’m currently learning Big Data
-- 💞️ I’m looking to collaborate on programing
-- 📫 How to reach me 
+- #👋 Oi, sou Walquiria Rodrigues# 
+- 👀 Sou interessada em gatos, série, música e pessoas. 
+- 🌱 Atualmente estou estudando Análise de Dados no Senac 
+- 💞️ Procuro participar de algum projeto ou Bootcamp para mudar de área
+- 📫 How to reach me @rodrigueeswal
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: nothing interesting
 
